@@ -1,0 +1,2 @@
+# Mengenal Model Regresi Linear
+Model Regresi linear digunakan untuk membentuk sebuah model untuk memprediksi suatu nilai dari variabel respon (variabel dependen) yang pada umumnya disimbolkan dengan huruf **y** yang memiliki hubungan dengan satu / beberapa variabel prediktor (variabel independen) yang pada umumnya disimbolkan dengan huruf **x**. 

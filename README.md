@@ -1,0 +1,2 @@
+## Belajar Regression Linear Models
+Tempat belajar dan berbagi ilmu pengetahun terkait Regression Linear Models dengan menggunakan bahasa pemrogramman R dan python, mulai dari paling dasar sampai pada level advance... Aamin
